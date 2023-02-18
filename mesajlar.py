@@ -1,0 +1,12 @@
+class Mesajlar:
+    hataMesaji = "Bir hata ile karşılaşıldı. Lütfen daha sonra  tekrar deneyin."
+    hosGeldin = "Hisse Takip Botuna hoşgeldiniz.\n/komutlar ile bu botun yapabileceklerini görebilirsiniz."
+    zatenKayit = "Bu bot'a zaten kayıtlısın."
+    guncellendi = "Güncellendi"
+    guncellenemedi = "Güncellenemedi"
+    eklendi = "Eklendi"
+    eklenemedi = "Eklenemedi"
+    sorguHakkiKalmadi = "Sorgu Hakkınız Kalmadı"
+    sorguyuDuzelt = "Lütfen sorguyu doğru yazın"
+    kayitliDegil = "Bota kayıtlı değilsin. Lütfen ilk önce /start komutunu çalıştır."
+    bulamadim = "Aradığın hisseyi bulamadım"
